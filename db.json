@@ -2,10 +2,14 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Hello Boss, how are you? "
     }
   ],
   "profile": {
     "name": "typicode"
+  } ,
+  
+  "mytrial" : {
+   "status": "success" 
   }
 }
